@@ -1,0 +1,25 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "npm testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https: //github.com/brunagarcia/week3_code.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "bruna garcia",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.14.11",
+    "one-liner-joke": "^1.0.0",
+    "readline-sync": "^1.4.7",
+    "request": "^2.83.0"
+  }
+}
